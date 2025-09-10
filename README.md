@@ -43,9 +43,9 @@ O objetivo foi simular a criação e execução de **casos de teste funcionais e
 - Markdown (documentação)
 
 ## Evidências
-![Tela de Feature no TestRail](imagens/feature-login.png)  
-![Lista de Test Cases](imagens/test-cases.png)  
-![Execução de Test Run](imagens/test-run.png)
+![Tela de Feature no TestRail](feature-login.png)  
+![Lista de Test Cases](test-cases.png)  
+![Execução de Test Run](test-run.png)
 
 ## Resultados
 Todos os cenários foram executados com sucesso.  
